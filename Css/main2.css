@@ -1,0 +1,161 @@
+/*background*/
+#back {
+    background-image: url(./background2.png);
+    height: 510px;
+    width: 100%;
+    
+    
+    background-size:cover;
+}
+/*header*/
+/*ab*/
+#back ul li {
+    display: inline-block;
+}
+#chinh1 {
+    margin-top: 10px
+
+}
+#chinh1 img {
+    width: 17%;
+    margin-left: 80px;
+    margin-top: -120px;
+}
+#chinh2 {
+    margin-top: 50px;
+}
+#chinh2 a {
+    color: white;
+}
+#ul1 {
+    font-size: 15px;
+    text-align: center;
+}
+#ul1 li {
+    margin-left: 35px;
+}
+ion-icon{
+    font-size: 17px;
+    color: white;
+    font-weight: bold;
+}
+#ul2  {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 0;
+}
+#ul2 li {
+    margin-left: 40px;
+
+}
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+/*middle*/
+.container {
+    width: 86.5%;
+}
+/*ac*/
+ac h1{
+    margin-top: 60px;
+    color: #313131;
+    text-align: center;
+    font-size: 47px;
+}
+ac hr {
+    width: 17%;
+    border-color: black;
+    margin-top: 50px;
+}
+ac h2 {
+    font-size: 38px;
+}
+ac p {
+    font-size: 20px;
+    margin-top: 20px;
+}
+/*ad + ae + af*/
+ img {
+    width: 103%;
+    height: 400px;
+}
+.chinhlink {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+    width: 103%;
+    
+}
+.chinhlink a {
+    color: black;
+    margin-top: 100px;
+}
+#chinhlink1 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 200px;
+    width: 103%;
+    
+}
+#chinhlink1 a {
+    color: black;
+}
+af img {
+    width: 102%;
+}
+/*incon instagram*/
+#icon{
+    text-align: center;
+    margin-top: 60px;
+}
+#icon p {
+    font-size: 16px;
+}
+#fixicon {
+    font-size:38px;
+    margin-top: 30px;
+     color:#00ADEF
+}
+/*af*/
+#lastbackground{
+    background-color: #313131;
+    margin-top: 250px;
+    height: 550px;
+}
+ag ul li {
+    text-align: center;
+    list-style: none;
+    margin-top: 10px;
+    font-size: 15px;
+    
+    
+}
+ag img {
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 45%;
+    height: 170px;
+}
+ag ul li a{
+    color: #00ADEF;
+    font-weight: bold;
+}
+ag ul {
+    margin-top: 100px;
+}
+ag p {
+    color: #CCC;
+    text-align: center;
+    font-size: 13px;
+    margin-top: 20px;
+}
+#lastbackground ul li{
+    display: block;
+}
+.text{
+position: absolute;
+margin-top: 30%;
+margin-left: 25%;
+}

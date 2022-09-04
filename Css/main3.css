@@ -1,0 +1,221 @@
+/*background*/
+#back {
+    background-image: url(./background3.png);
+    height: 510px;
+    width: 100%;
+    
+    
+    background-size:cover;
+}
+/*header*/
+/*ab*/
+#back ul li {
+    display: inline-block;
+}
+#chinh1 {
+    margin-top: 10px
+
+}
+#chinh1 img {
+    width: 17%;
+    margin-left: 80px;
+    
+}
+#chinh2 {
+    margin-top: 50px;
+}
+#chinh2 a {
+    color: white;
+}
+#ul1 {
+    font-size: 15px;
+    text-align: center;
+}
+#ul1 li {
+    margin-left: 35px;
+}
+ion-icon{
+    font-size: 17px;
+    color: white;
+    font-weight: bold;
+}
+#ul2  {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 0;
+}
+#ul2 li {
+    margin-left: 40px;
+
+}
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+/*middle*/
+.container {
+    width: 86.5%;
+}
+/*ac*/
+ac img {
+    width: 100%;
+    height: 400px;
+}
+ac h1 {
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+ac p {
+    font-size: 22px;
+    text-align: center;
+    
+}
+/*ad*/
+.khoangcach {
+    
+    height: 500px;
+    width: 100%;
+}
+ad img {
+    margin-top: 120px;
+    margin-left: 60px;
+}
+ad h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 120px;
+    color: white;
+}
+ad h4 {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 25px;
+    color: white;
+}
+ad b {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 40px;
+    color: white;
+
+    
+    
+}
+.lll {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 40px;
+    color: white;
+
+}
+#metmoi1 {
+    background-image: url(./metmoi1.png);
+    background-size: cover;
+}
+#metmoi2 {
+    background-image: url(./metmoi2.png);
+    background-size: cover;
+}
+#metmoi3 {
+    background-image: url(./metmoi3.png);
+    background-size: cover;
+}
+#metmoi4 {
+    background-image: url(./metmoi4.png);
+    background-size: cover;
+}
+#metmoi5 {
+    background-image: url(./metmoi5.png);
+    background-size: cover;
+}
+#metmoi6 {
+    background-image: url(./metmoi6.png);
+    background-size: cover;
+}
+#metmoi7 {
+    background-image: url(./metmoi7.png);
+    background-size: cover;
+}
+#metmoi8 {
+    background-image: url(./metmoi8.png);
+    background-size: cover;
+}
+#metmoi9 {
+    background-image: url(./metmoi9.png);
+    background-size: cover;
+}
+#metmoi10 {
+    background-image: url(./metmoi10.png);
+    background-size: cover;
+}
+#metmoi11 {
+    background-image: url(./metmoi11.png);
+    background-size: cover;
+}
+
+
+
+/*incon instagram*/
+#icon{
+    text-align: center;
+    margin-top: 60px;
+}
+#icon p {
+    font-size: 16px;
+}
+#fixicon {
+    font-size:38px;
+    margin-top: 30px;
+     color:#00ADEF
+}
+/*af*/
+#lastbackground{
+    background-color: #313131;
+    margin-top: 250px;
+    height: 550px;
+}
+ag ul li {
+    text-align: center;
+    list-style: none;
+    margin-top: 10px;
+    font-size: 15px;
+    
+    
+}
+ag img {
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 45%;
+    height: 170px;
+}
+ag ul li a{
+    color: #00ADEF;
+    font-weight: bold;
+}
+ag ul {
+    margin-top: 100px;
+}
+ag p {
+    color: #CCC;
+    text-align: center;
+    font-size: 13px;
+    margin-top: 20px;
+}
+#lastbackground ul li{
+    display: block;
+}
+.text{
+position: absolute;
+margin-top: 30%;
+margin-left: 25%;
+}

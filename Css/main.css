@@ -1,0 +1,180 @@
+/*header*/
+#back {
+    background-image: url(./background.png);
+    height: 900px;
+    width: 100%;
+
+}
+ab ul li {
+    display: inline-block;
+}
+#chinh1 {
+    margin-top: 10px
+
+}
+#chinh1 img {
+    width: 17%;
+    margin-left: 80px;
+}
+#chinh2 {
+    margin-top: 50px;
+}
+#chinh2 a {
+    color: white;
+}
+#ul1 {
+    font-size: 15px;
+    text-align: center;
+}
+#ul1 li {
+    margin-left: 35px;
+}
+ion-icon{
+    font-size: 17px;
+    color: white;
+    font-weight: bold;
+}
+#ul2  {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 0;
+}
+#ul2 li {
+    margin-left: 40px;
+}
+ab h1 {
+    color: white;
+    font-size: 80px;
+    width: 60%;
+    margin-top: 130px;
+    margin-left: 100px;
+}
+#le1 {
+    font-size: 45px;
+    text-align: center;
+    margin-top: 100px;
+}
+#le2 {
+    width: 65%;
+    margin-left: 350px;
+    margin-top: 40px;
+}
+#le3 {
+    text-align: center;
+    font-size: 45px;
+    margin-top: 100px;
+}
+ac img {
+    margin-left: 150px;
+    width: 85%;
+    margin-top: -150px;
+    height: 800px;
+}
+ac h1 {
+    
+    font-size: 48px;
+    width: 80%;
+    margin-top: 200px;
+    margin-left: 140px;
+    
+}
+#bg2 {
+    background-color: #E75824;
+    height: 650px;
+    margin-top: 300px;
+}
+ac p {
+    color: white;
+}
+ac h1 a {
+    color: white;
+       
+}
+ac p{
+    font-size: 22px;
+    width: 84%;
+    text-align: right;
+    margin-left: 45px;
+    margin-top: 30px;
+}
+ac button {
+    height: 70px;
+    width: 30%;
+    
+    margin-left: 540px;
+    margin-top: 30px;
+    border-color:white ;
+}
+ac button a{
+    font-size: 23px;
+    color: black;
+}
+ad img {
+    width: 100%;
+}
+.container {
+    width: 85%;
+}
+
+
+ad h1 a{
+    color: black;
+}
+ad h1 {
+    width: 79%;
+}
+ad p{
+    font-size: 25px;
+}
+.chu{
+    font-size: 25px;
+    
+    color: #00ADEF;
+}
+ae h1 a{
+    color: black;
+}
+ae p {
+    font-size: 25px;
+}
+#lastbackground{
+    background-color: #313131;
+    margin-top: 300px;
+    height: 650px;
+}
+af ul li {
+    text-align: center;
+    list-style: none;
+    margin-top: 20px;
+    font-size: 20px;
+    
+}
+af img {
+    margin-left: 160px;
+    width: 40%;
+    margin-top: 150px;
+}
+af ul li a{
+    color: #00ADEF;
+}
+af ul {
+    margin-top: 150px;
+}
+af p {
+    color: #CCC;
+    text-align: center;
+    font-size: 17px;
+    margin-top: 20px;
+}
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+.right {
+    float: right;
+}
+
+
+
+
